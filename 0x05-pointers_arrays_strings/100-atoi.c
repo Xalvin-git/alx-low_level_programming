@@ -34,3 +34,4 @@ c++;
 }
 ni *= min;
 return (ni);
+}
